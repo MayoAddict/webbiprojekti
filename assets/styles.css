@@ -1,1 +1,16 @@
-body{font-family:sans-serif}
+body {
+	
+	font-family:sans-serif;
+	color: #555;
+	background-color: #FAFAEB;
+	}
+.otsikko { color: #333;}
+
+#li-otsikko {
+	color: #7E0CA6;}
+ul {
+	margin: 5px 0px}
+li {
+	padding: 2px 4px;}
+a {
+	color: #FF45C7;}
